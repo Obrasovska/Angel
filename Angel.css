@@ -317,8 +317,8 @@ li a:active {
 .Contact {
 	width: 1620px;
 	height: 900px;
-	background:  url(Contact.jpg)no-repeat center center;
-	margin-top: -50px;
+	background:no-repeat center center;
+	margin-right: 0px;
 }
 .Partneri {
     width: 1620px;
