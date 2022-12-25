@@ -314,7 +314,7 @@ li a:active {
 	padding-top: 10px;
 	line-height: 2em;  
 }	
-.Contact {
+.Contact .Contact{
 	width: 1620px;
 	height: 900px;
 	background:no-repeat center center;
