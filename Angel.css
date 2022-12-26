@@ -314,10 +314,10 @@ li a:active {
 	padding-top: 10px;
 	line-height: 2em;  
 }	
-.Contact {
+.Contact .Contact{
 	width: 1620px;
 	height: 900px;
-	background:  url(сontact.jpg)no-repeat center center;
+	background:  url(contact.jpg)no-repeat center center;
 	margin-right: 0px;
 	margin-top: -30px;
 }
